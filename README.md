@@ -1,0 +1,1 @@
+Healthcare+ is a web-based application that allows patients to book doctor appointments online, attend virtual consultations, and receive e-prescriptions. It provides a seamless interface for both patients and healthcare professionals, enabling remote healthcare access with efficiency and convenience.
